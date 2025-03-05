@@ -8,19 +8,19 @@
 
 
 ## Two Column Compare
-
+![Two column compare](https://raw.githubusercontent.com/Gemini2015/EasyCompare/master/screenshots/two_column_compare.png)
 
 ## Compare Later
-
+![Compare later](https://raw.githubusercontent.com/Gemini2015/EasyCompare/master/screenshots/compare_later.png)
 
 ## Settings
-`
+```
 {
     "default_tool": "tortoise_svn",
     "tortoise_svn_path": "C:\\Program Files\\TortoiseSVN\\bin\\TortoiseProc.exe",
     "tortoise_git_path": "C:\\Program Files\\TortoiseSVN\\bin\\TortoiseGitProc.exe",
     "win_merge_path": "C:\\Program Files\\WinMerge\\WinMergeU.exe"
 }
-`
+```
 
-default_tool: 'tortoise_svn', 'tortoise_git', 'win_merge'
+**default_tool**: `tortoise_svn`, `tortoise_git`, `win_merge`
