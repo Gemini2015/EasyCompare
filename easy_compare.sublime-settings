@@ -1,0 +1,6 @@
+{
+    "default_tool": "tortoise_svn",
+    "tortoise_svn_path": "C:\\Program Files\\TortoiseSVN\\bin\\TortoiseProc.exe",
+    "tortoise_git_path": "C:\\Program Files\\TortoiseSVN\\bin\\TortoiseGitProc.exe",
+    "win_merge_path": "C:\\Program Files\\WinMerge\\WinMergeU.exe"
+}

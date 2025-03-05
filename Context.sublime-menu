@@ -1,0 +1,36 @@
+[
+    {
+        "id": "easy_compare",
+        "caption": "EasyCompare",
+        "children": [
+            {
+                "caption": "Tortoise SVN",
+                "command": "easy_compare",
+                "args": {
+                    "tool": "tortoise_svn"
+                }
+            },
+            {
+                "caption": "Tortoise Git",
+                "command": "easy_compare",
+                "args": {
+                    "tool": "tortoise_git"
+                }
+            },
+            {
+                "caption": "WinMerge",
+                "command": "easy_compare",
+                "args": {
+                    "tool": "win_merge"
+                }
+            },
+            {
+                "caption": "Compare Later",
+                "command": "easy_compare_later"
+            },
+            {
+                "command": "easy_compare_with"
+            }
+        ]
+    }
+]
